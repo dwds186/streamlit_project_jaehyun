@@ -1,5 +1,9 @@
 # streamlit_project_jaehyun
 
+# 🔍 PROJECT HOMEPAGE
+https://appprojectjaehyun-6rdqruzvkwgsi4whng5ev4.streamlit.app/
+프로젝트 홈페이지 URL입니다.
+
 # 📊 Loan Approval Prediction - 대출 승인 예측
 
 이 프로젝트는 **Streamlit**을 사용하여 대출 승인 예측 데이터셋을 시각화하는 웹 애플리케이션입니다.  
